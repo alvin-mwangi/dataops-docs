@@ -1,4 +1,4 @@
-# `Into to CI/CD` - Lab Graduates
+# `Intro to CI/CD` - Lab Graduates
 
 The GitHub users below ***ACED it*** on their [CI/CD lab](intro.md)! 😎
 
@@ -6,6 +6,7 @@ The GitHub users below ***ACED it*** on their [CI/CD lab](intro.md)! 😎
 
 - @aaronsteers
 - @alex-b-griffin
+- @alvin-mwangi
 - [@atopp-slalom](https://github.com/atopp-slalom)
 - @bbainsslalom
 - @biancaorozco
